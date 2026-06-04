@@ -27,4 +27,8 @@ public class Test1 {
     public void addition() {
         System.out.println("Addition Test Updated");
     }
+    @Test
+    public void addition() {
+        System.out.println("Feature Login");
+    }
 }
