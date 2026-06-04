@@ -23,4 +23,8 @@ public class Test1 {
     public void division() {
         System.out.println("Division");
     }
+    @Test
+    public void addition() {
+        System.out.println("Addition Test Updated");
+    }
 }
